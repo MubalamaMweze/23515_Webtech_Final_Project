@@ -69,7 +69,7 @@ Use the logout option available in the profile/account settings.
 Additional Notes:
 For any further assistance or queries, refer to the help section within the application or reach out to customer support.
 
-##C. Expense Tracker Technical Documentation
+## C. Expense Tracker Technical Documentation
 
 **1. Architecture Overview:**
 Frontend: HTML, CSS, and Bootstrap used for creating the user interface (UI).
@@ -106,7 +106,7 @@ Implementing caching mechanisms to optimize application performance.
 Maintaining comprehensive documentation using tools like Swagger for API documentation.
 Employing Git for version control and collaborative development.
 
-##D. Database Schema
+## D. Database Schema
 
 ![Untitled Diagram drawio](https://github.com/MubalamaMweze/23515_Webtech_Final_Project/assets/146167689/f285b327-3767-41d1-81b1-0dcd1e45b51e)
 
@@ -114,8 +114,8 @@ Employing Git for version control and collaborative development.
 
 
 
-###Thank you!
-###Mubalama Mweze Jean-Claude
+### Thank you!
+### Mubalama Mweze Jean-Claude
 
 
  
