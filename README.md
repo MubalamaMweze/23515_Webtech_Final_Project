@@ -110,6 +110,16 @@ Employing Git for version control and collaborative development.
 
 ![Untitled Diagram drawio](https://github.com/MubalamaMweze/23515_Webtech_Final_Project/assets/146167689/f285b327-3767-41d1-81b1-0dcd1e45b51e)
 
+## E. Demo
+
+
+![Screenshot (589)](https://github.com/MubalamaMweze/23515_Webtech_Final_Project/assets/146167689/fae030c6-370e-46aa-89f4-92ea0e45d9b4)
+
+![Screenshot (588)](https://github.com/MubalamaMweze/23515_Webtech_Final_Project/assets/146167689/be2929e0-ffb2-4aec-99be-751185f5f79f)
+
+![Screenshot (590)](https://github.com/MubalamaMweze/23515_Webtech_Final_Project/assets/146167689/fa13f90b-3755-4ef0-9108-baf37104b85a)
+
+![Screenshot (591)](https://github.com/MubalamaMweze/23515_Webtech_Final_Project/assets/146167689/69ff586b-ce77-4d80-954e-bf1c161defca)
 
 
 
