@@ -111,6 +111,19 @@ Employing Git for version control and collaborative development.
 
 # D. Database Schema
 
+(https://github.com/MubalamaMweze/23515_Webtech_Final_Project/assets/146167689/dba7f983-f9d4-445e-acf3-1b53dd6abd8d)
+
+
+
+
+
+
+
+
+Thank you!
+Mubalama Mweze Jean-Claude
+
+
  
 
 
